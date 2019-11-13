@@ -1,0 +1,1 @@
+Tenemos un html con una parte de mi biografia y una imagen, con color de fondo naranja y letra Verdana.
